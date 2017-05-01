@@ -1,0 +1,38 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:3:2-41
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:4:2-7:16
+	android:label
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:4:15-44
+provider#com.android.provider.roadcode.RoadcodeProvider
+ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:5:3-6:81
+	android:authorities
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:6:4-55
+	android:exported
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:6:56-79
+	android:name
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:5:13-44
+uses-sdk
+ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:8:2-40
+	android:targetSdkVersion
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml:8:12-37
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android_project\JwtRoadCodeProvider\app\src\main\AndroidManifest.xml

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\小冬\StudioProjects\JwtRoadCodeProvider\app\src\main\assets"><file name="roadcode.db.0" path="C:\Users\小冬\StudioProjects\JwtRoadCodeProvider\app\src\main\assets\roadcode.db.0"/><file name="roadcode.db.1" path="C:\Users\小冬\StudioProjects\JwtRoadCodeProvider\app\src\main\assets\roadcode.db.1"/></source></dataSet><dataSet config="release"><source path="C:\Users\小冬\StudioProjects\JwtRoadCodeProvider\app\src\release\assets"/></dataSet></merger>
